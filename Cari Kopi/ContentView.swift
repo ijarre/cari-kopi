@@ -59,7 +59,6 @@ private var coffeeShopSearchResults: [Coffeeshop] {
                         Spacer()
                     }
                     .padding()
-                    Image(systemName: "chevron.right").foregroundColor(.gray)
                 }
                 }
                 
